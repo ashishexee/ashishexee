@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">Flutter & Node.js Developer</h3>
 
-- 🔭 I’m currently working on **JobLook**
+- 🔭 Visit my portfolio here **https://ashishportfolio.live/**
 
 - 💬 Ask me about **flutter, node.js , express.js , databases**
 
