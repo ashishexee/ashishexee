@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">Flutter & Backend Developer</h3>
 
-- 💬 Ask me about **flutter, node.js , express.js , databases**
+- 🌱 I’m currently learning **Go Lang**
+
+- 👨‍💻 You can see my Portfolio at [https://ashishportfolio.live/](https://ashishportfolio.live/)
+
+- 💬 Ask me about **Flutter, Backend, Databases**
 
 - 📫 How to reach me **ashish@me.iitr.ac.in**
 
