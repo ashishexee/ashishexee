@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">App Developer (Flutter) | Backend & Web Developer | Blockchain Enthusiast</h3>
-![Profile views](https://komarev.com/ghpvc/?username=ashishexee&color=blue)
 
 - 🌱 I’m currently learning **Blockchain**
 
